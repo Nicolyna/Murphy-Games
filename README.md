@@ -1,4 +1,4 @@
-# Murphy Games System
+
 
 **Status do Projeto**: ⚠️ Em desenvolvimento
 
@@ -8,7 +8,8 @@
 - Swing (GUI)
 - Git/GitHub
 
-
+## Time de Desenvolvimento
+- [Nicoly Aparecida da Silva] (Desenvolvedor Full-Stack)
 
 ## Objetivo do Sistema
 Gerenciar operações de uma loja de games, incluindo:
